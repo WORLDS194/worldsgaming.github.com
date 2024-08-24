@@ -1,6 +1,3 @@
-# worldsgaming
-Hello
-
 
 <!DOCTYPE html>
 <html>
@@ -9,8 +6,8 @@ Hello
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Welcome to WORLDS!</h1>
+<p>WORLDS2024.</p>
 
 </body>
 </html>
