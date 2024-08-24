@@ -1,2 +1,2 @@
-# worldsgaming.github.com
+# worldsgaming
 Hello
